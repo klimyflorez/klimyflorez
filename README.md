@@ -1,6 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <h3 align="center">Hi 👋, I'm Klimy Florez López</h3>
+</p>
+<p align="center">
+    <a href="https://klimyflorez.github.io">About Me</a>
+    ·
+    <a href="mailto:ingklimyflorez@gmail.com">Email</a>
+    ·
+    <a href="https://linkedin.com/in/klimyflorez">LinkedIn</a>
+    ·
+    <a href="https://twitter.com/klimyflorez">Twitter</a>
+</p>
+
+<p align="center">
+  <h4 align="center">Backend developer</h4>
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=klimyflorez&color=blue&style=flat-square" alt="klimyflorez profile views" />
+</p>
+
 
 <!--
+### Hi there 👋
 **klimyflorez/klimyflorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
