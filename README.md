@@ -2,6 +2,10 @@
   <h3 align="center">Hi 👋, I'm Klimy Florez López</h3>
 </p>
 <p align="center">
+  <h3 align="center">{ Backend Developer } </h3>
+</p>
+
+<p align="center">
     <a href="https://klimyflorez.github.io">About Me</a>
     ·
     <a href="mailto:ingklimyflorez@gmail.com">Email</a>
@@ -11,19 +15,20 @@
     <a href="https://twitter.com/klimyflorez">Twitter</a>
 </p>
 
-<p align="center">
-  <h4 align="center">Backend developer</h4>
-</p>
-
-<p align="center"> 
+<div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=klimyflorez&color=blue&style=flat-square" alt="klimyflorez profile views" />
-</p>
+  <br/>  
+  
+  ![GitHub Followers](https://img.shields.io/github/followers/klimyflorez?style=social)  
+  ![GitHub Followers](https://img.shields.io/github/stars/klimyflorez?style=social)
+  
+</div>
 
 <hr/>
 <div align="center"> 
 <br />
 
-[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/klimyflorez)
+[![Twitter Follow](https://img.shields.io/twitter/follow/klimyflorez?style=social)](https://twitter.com/klimyflorez)
 [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/klimyflorez)
 
 </div>
