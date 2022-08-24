@@ -19,6 +19,14 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=klimyflorez&color=blue&style=flat-square" alt="klimyflorez profile views" />
 </p>
 
+<hr/>
+<div align="center"> 
+<br />
+
+[!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/klimyflorez)
+[!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/klimyflorez)
+
+</div>
 
 <!--
 ### Hi there 👋
