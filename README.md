@@ -14,7 +14,9 @@
     ·
     <a href="https://twitter.com/klimyflorez">Twitter</a>
 </p>
-
+<p align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=klimyflorez&show_icons=true" />
+</p>
 <div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=klimyflorez&color=blue&style=flat-square" alt="klimyflorez profile views" />
   <br/>  
